@@ -1,2 +1,3 @@
-# problem-solving-report
-PS 분석 리포트
+# Algorithm Cheet
+
+알고리즘 치트키
