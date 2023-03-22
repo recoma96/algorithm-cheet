@@ -1,6 +1,6 @@
 # Algorithm Cheet
 
-알고리즘 치트키
+코딩문제 풀때 뽑아 쓰는 치트키
 
 
 ## 치트키들
@@ -9,3 +9,6 @@
 
 ### [배열, 수열, 구간](./array/)
 * [LIS](./array/lis.cpp)
+
+### [자료구조](./data_structure/)
+* [세그먼트 트리](./data_structure/segment_tree.cpp)
