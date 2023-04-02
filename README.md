@@ -20,3 +20,4 @@
 
 ### [자료구조](./data_structure/)
 * [세그먼트 트리](./data_structure/segment_tree.cpp)
+* [느리게 갱신되는 세그먼트 트리](./data_structure/lazy_propergation.cpp)
